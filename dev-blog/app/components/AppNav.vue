@@ -15,7 +15,7 @@
     </NuxtLink>
     
         <NuxtLink
-        to="/contacts"
+        to="/kontakt"
         :class="{ active: route.path === '/contacts'}"
         >
       Kontakter
